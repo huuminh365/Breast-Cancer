@@ -1,18 +1,27 @@
 # Breast-Cancer
 
+## Member
+1. Nguyen Thi Thanh Hoa
+2. Truong Thi Cam Ly
+3. Quach Xuan Nam
+4. Luu Luong Vi Nhan
+5. Le Thanh Nghia
+
 ## Introduction
 This repository solved the problem of classifying mammograms as malignant or normal/benign using deep learning.
 
 ## Architechture
  - ConvNeXt
  - CNNs
+ - HRNet
+ - Resnet50
 
 ## Dataset
- - INbreast: 
- - CMMD
- - DDSM
- - Mias
- - RSNA
+ - INbreast: https://www.kaggle.com/datasets/quachnam/inbreast-roi-mammography
+ - CMMD: https://www.kaggle.com/code/quachnam/cmmd-roi-mammography
+ - DDSM: https://www.kaggle.com/datasets/quachnam/mini-ddsm-roi-mammography
+ - Mias: https://www.kaggle.com/datasets/quachnam/mias-roi-mammography
+ - RSNA: https://www.kaggle.com/datasets/quachnam/rsna-roi-mammography
 
 ## App
 Using Huggingface's gradio library
